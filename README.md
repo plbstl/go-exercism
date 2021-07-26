@@ -6,6 +6,7 @@ My solutions for Exercism go track.
 
 |               Exercise               | Status |
 | :----------------------------------: | :----: |
+|  [accumulate](accumulate/readme.md)  |   ✅   |
 |     [hamming](hamming/readme.md)     |   ✅   |
 | [hello-world](hello-world/readme.md) |   ✅   |
 |     [two-fer](two-fer/readme.md)     |   ✅   |
