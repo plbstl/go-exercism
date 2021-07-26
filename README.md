@@ -9,6 +9,7 @@ My solutions for Exercism go track.
 |  [accumulate](accumulate/readme.md)  |   ✅   |
 |     [hamming](hamming/readme.md)     |   ✅   |
 | [hello-world](hello-world/readme.md) |   ✅   |
+|        [leap](leap/readme.md)        |   ✅   |
 |     [two-fer](two-fer/readme.md)     |   ✅   |
 
 **LICENSE**: Apache-2.0
