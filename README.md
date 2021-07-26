@@ -7,5 +7,6 @@ My solutions for Exercism go track.
 |               Exercise               | Status |
 | :----------------------------------: | :----: |
 | [hello-world](hello-world/readme.md) |   ✅   |
+|     [two-fer](two-fer/readme.md)     |   ✅   |
 
 **LICENSE**: Apache-2.0
