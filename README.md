@@ -10,6 +10,7 @@ My solutions for Exercism go track.
 |           [hamming](https://github.com/PaulEbose/go-exercism/tree/main/hamming)           |   ✅   |
 |       [hello-world](https://github.com/PaulEbose/go-exercism/tree/main/hello-world)       |   ✅   |
 |              [leap](https://github.com/PaulEbose/go-exercism/tree/main/leap)              |   ✅   |
+|  [nucleotide-count](https://github.com/PaulEbose/go-exercism/tree/main/nucleotide-count)  |   ✅   |
 |           [proverb](https://github.com/PaulEbose/go-exercism/tree/main/proverb)           |   ✅   |
 |         [raindrops](https://github.com/PaulEbose/go-exercism/tree/main/raindrops)         |   ✅   |
 | [rna-transcription](https://github.com/PaulEbose/go-exercism/tree/main/rna-transcription) |   ✅   |
