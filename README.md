@@ -10,6 +10,7 @@ My solutions for Exercism go track.
 |     [hamming](https://github.com/PaulEbose/go-exercism/tree/main/hamming)     |   ✅   |
 | [hello-world](https://github.com/PaulEbose/go-exercism/tree/main/hello-world) |   ✅   |
 |        [leap](https://github.com/PaulEbose/go-exercism/tree/main/leap)        |   ✅   |
+|     [proverb](https://github.com/PaulEbose/go-exercism/tree/main/proverb)     |   ✅   |
 |   [raindrops](https://github.com/PaulEbose/go-exercism/tree/main/raindrops)   |   ✅   |
 |   [space-age](https://github.com/PaulEbose/go-exercism/tree/main/space-age)   |   ✅   |
 |    [triangle](https://github.com/PaulEbose/go-exercism/tree/main/triangle)    |   ✅   |
