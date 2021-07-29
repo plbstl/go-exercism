@@ -14,6 +14,7 @@ My solutions for Exercism go track.
 |           [proverb](https://github.com/PaulEbose/go-exercism/tree/main/proverb)           |   ✅   |
 |         [raindrops](https://github.com/PaulEbose/go-exercism/tree/main/raindrops)         |   ✅   |
 | [rna-transcription](https://github.com/PaulEbose/go-exercism/tree/main/rna-transcription) |   ✅   |
+|    [roman-numerals](https://github.com/PaulEbose/go-exercism/tree/main/roman-numerals)    |   ✅   |
 |         [space-age](https://github.com/PaulEbose/go-exercism/tree/main/space-age)         |   ✅   |
 |            [strain](https://github.com/PaulEbose/go-exercism/tree/main/strain)            |   ✅   |
 |          [triangle](https://github.com/PaulEbose/go-exercism/tree/main/triangle)          |   ✅   |
