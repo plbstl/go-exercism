@@ -7,6 +7,7 @@ My solutions for Exercism go track.
 |                                         Exercise                                          | Status |
 | :---------------------------------------------------------------------------------------: | :----: |
 |        [accumulate](https://github.com/PaulEbose/go-exercism/tree/main/accumulate)        |   ✅   |
+|               [etl](https://github.com/PaulEbose/go-exercism/tree/main/etl)               |   ✅   |
 |           [hamming](https://github.com/PaulEbose/go-exercism/tree/main/hamming)           |   ✅   |
 |       [hello-world](https://github.com/PaulEbose/go-exercism/tree/main/hello-world)       |   ✅   |
 |              [leap](https://github.com/PaulEbose/go-exercism/tree/main/leap)              |   ✅   |
