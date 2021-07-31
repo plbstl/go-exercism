@@ -1,5 +1,7 @@
 # Go Exercism
 
+[![Go Reference](https://pkg.go.dev/badge/github.com/paulebose/go-exercism.svg)](https://pkg.go.dev/github.com/paulebose/go-exercism)
+
 > https://exercism.io/tracks/go
 
 My solutions for Exercism go track.
