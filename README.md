@@ -16,6 +16,7 @@ My solutions for Exercism go track.
 |         [gigasecond](https://github.com/PaulEbose/go-exercism/tree/main/gigasecond)         |   ✅   |
 |            [hamming](https://github.com/PaulEbose/go-exercism/tree/main/hamming)            |   ✅   |
 |        [hello-world](https://github.com/PaulEbose/go-exercism/tree/main/hello-world)        |   ✅   |
+|            [isogram](https://github.com/PaulEbose/go-exercism/tree/main/isogram)            |   ✅   |
 |               [leap](https://github.com/PaulEbose/go-exercism/tree/main/leap)               |   ✅   |
 |   [nucleotide-count](https://github.com/PaulEbose/go-exercism/tree/main/nucleotide-count)   |   ✅   |
 |            [proverb](https://github.com/PaulEbose/go-exercism/tree/main/proverb)            |   ✅   |
