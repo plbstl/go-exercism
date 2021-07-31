@@ -8,6 +8,7 @@ My solutions for Exercism go track.
 | :-----------------------------------------------------------------------------------------: | :----: |
 |         [accumulate](https://github.com/PaulEbose/go-exercism/tree/main/accumulate)         |   ✅   |
 |            [acronym](https://github.com/PaulEbose/go-exercism/tree/main/acronym)            |   ✅   |
+|                [bob](https://github.com/PaulEbose/go-exercism/tree/main/bob)                |   ✅   |
 | [collatz-conjecture](https://github.com/PaulEbose/go-exercism/tree/main/collatz-conjecture) |   ✅   |
 |              [darts](https://github.com/PaulEbose/go-exercism/tree/main/darts)              |   ✅   |
 |                [etl](https://github.com/PaulEbose/go-exercism/tree/main/etl)                |   ✅   |
