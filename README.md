@@ -20,6 +20,7 @@ My solutions for Exercism go track.
 |        [hello-world](https://github.com/PaulEbose/go-exercism/tree/main/hello-world)        |   ✅   |
 |            [isogram](https://github.com/PaulEbose/go-exercism/tree/main/isogram)            |   ✅   |
 |               [leap](https://github.com/PaulEbose/go-exercism/tree/main/leap)               |   ✅   |
+|           [list-ops](https://github.com/PaulEbose/go-exercism/tree/main/list-ops)           |   ✅   |
 |   [nucleotide-count](https://github.com/PaulEbose/go-exercism/tree/main/nucleotide-count)   |   ✅   |
 |            [proverb](https://github.com/PaulEbose/go-exercism/tree/main/proverb)            |   ✅   |
 |          [raindrops](https://github.com/PaulEbose/go-exercism/tree/main/raindrops)          |   ✅   |
