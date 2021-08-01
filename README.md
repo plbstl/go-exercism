@@ -23,6 +23,7 @@ My solutions for Exercism go track.
 |                  [leap](https://github.com/PaulEbose/go-exercism/tree/main/leap)                  |   ✅   |
 |              [list-ops](https://github.com/PaulEbose/go-exercism/tree/main/list-ops)              |   ✅   |
 |      [nucleotide-count](https://github.com/PaulEbose/go-exercism/tree/main/nucleotide-count)      |   ✅   |
+|              [panagram](https://github.com/PaulEbose/go-exercism/tree/main/panagram)              |   ✅   |
 |   [protein-translation](https://github.com/PaulEbose/go-exercism/tree/main/protein-translation)   |   ✅   |
 |               [proverb](https://github.com/PaulEbose/go-exercism/tree/main/proverb)               |   ✅   |
 |             [raindrops](https://github.com/PaulEbose/go-exercism/tree/main/raindrops)             |   ✅   |
