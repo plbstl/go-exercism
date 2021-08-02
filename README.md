@@ -27,6 +27,7 @@ My solutions for Exercism go track.
 |   [protein-translation](https://github.com/PaulEbose/go-exercism/tree/main/protein-translation)   |   ✅   |
 |               [proverb](https://github.com/PaulEbose/go-exercism/tree/main/proverb)               |   ✅   |
 |             [raindrops](https://github.com/PaulEbose/go-exercism/tree/main/raindrops)             |   ✅   |
+|        [reverse-string](https://github.com/PaulEbose/go-exercism/tree/main/reverse-string)        |   ✅   |
 |     [rna-transcription](https://github.com/PaulEbose/go-exercism/tree/main/rna-transcription)     |   ✅   |
 |        [roman-numerals](https://github.com/PaulEbose/go-exercism/tree/main/roman-numerals)        |   ✅   |
 |        [scrabble-score](https://github.com/PaulEbose/go-exercism/tree/main/scrabble-score)        |   ✅   |
